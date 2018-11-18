@@ -1,0 +1,27 @@
+{
+  "name": "resume-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "leancloud-storage": "^3.10.0",
+    "swiper": "^4.4.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sxfshdf/resume-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sxfshdf/resume-2/issues"
+  },
+  "homepage": "https://github.com/sxfshdf/resume-2#readme"
+}

@@ -1,5 +1,5 @@
 body {
-  background: #efefefr;
+  background: #efefef;
   margin: 0; }
 
 html {
@@ -152,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .banner {
   height: 515px;
-  background-image: url(./img/rs-cover.jpg);
+  background-image: url(../img/rs-cover.jpg);
   background-position: center center;
   background-size: cover; }
 
@@ -358,10 +358,10 @@ section.skills.offset .progress {
   height: 44px;
   border-radius: 50%;
   outline: none;
-  background-image: url(./img/pre.svg); }
+  background-image: url(../img/pre.svg); }
 
 .swiper-button-next {
-  background-image: url(./img/next.svg); }
+  background-image: url(../img/next.svg); }
 
 section.message > ol {
   max-width: 800px;
